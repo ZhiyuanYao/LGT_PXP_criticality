@@ -3,9 +3,7 @@
 
 The Hamiltonian of the effective deformed PXP model we study reads,
 
-$$
-\hat{H} = \sum_{l} \hat{P}_{l-1} \hat{\sigma}_{l}^{x} \hat{P}_{l+1}-m \sum_{l} \hat{\sigma}_{l}^{z}
-$$
+$$\hat{H} = \sum_{l} \hat{P}_{l-1} \hat{\sigma}_{l}^{x} \hat{P}_{l+1}-m \sum_{l} \hat{\sigma}_{l}^{z}$$
 
 with $\hat{\sigma}^x$ and $\hat{\sigma}^z$ are the standard Pauli operator, and
 $\hat{P}_l = (1 - \hat{\sigma}_l^z)/2$ the projection operator.  This model has
