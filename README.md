@@ -1,7 +1,7 @@
 # Open Source Code
 <!-- # Open Source Code for arXiv: -->
 
-<div align="center"> <img width="100%" src="./images/1.svg" /> </div>
+<div align="center"> <img width="96%" src="./images/1.svg" /> </div>
 
 ## order_parameter
 
